@@ -16,9 +16,6 @@ Puedes ver una vista previa en vivo del encabezado ![Web Spa](/img/header_spa&be
 [![Static Badge](https://img.shields.io/badge/Ver%20Codigo%20-%20%23A9D6CB?style=for-the-badge&logoColor=A9D6CB&labelColor=%23A9D6CB)](/src/)
 
 
-
-
-
 ## Uso 🚀
 
 ¡Puedes utilizar este código como parte de tu proyecto web! Simplemente copia y pega el HTML y CSS correspondientes en tus archivos para integrar el encabezado en tu página web.
@@ -26,6 +23,12 @@ Puedes ver una vista previa en vivo del encabezado ![Web Spa](/img/header_spa&be
 ## Contribuciones 🤝
 
 ¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes alguna sugerencia de mejora, ¡por favor abre un problema o envía una solicitud de extracción!
+
+## Trabajo Freelance 💼
+
+Estoy disponible para trabajar en proyectos de diseño web, ya sea para particulares o empresas. Si necesitas ayuda con el diseño de tu sitio web o tienes algún proyecto en mente, ¡no dudes en contactarme en 
+<br>
+[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](mailto:ferrancolllopez@gmail.com)
 
 ## Licencia 📄
 
