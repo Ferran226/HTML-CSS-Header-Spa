@@ -1,0 +1,230 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,200;6..12,300&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header.header {
+  display: flex;
+  margin-top: 25px;
+  margin-right: 5%;
+  margin-bottom: 100px;
+}
+header.header .nav-principal {
+  margin-left: 100px;
+}
+header.header .nav-principal ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  gap: 5px;
+}
+header.header .nav-principal ul a {
+  color: #264065;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 200;
+  position: relative;
+}
+header.header .nav-principal ul a img {
+  position: absolute;
+  top: 1px;
+}
+
+.login {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+.login ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.login li {
+  margin: 0;
+}
+.login li a {
+  margin: 0;
+}
+.login a img.bolsa {
+  margin-right: 30px;
+}
+.login a.link {
+  color: #264065;
+  font-size: 16px;
+  font-weight: 300;
+  margin-right: 20px;
+}
+.login a.button {
+  color: #fff;
+  text-decoration: none;
+  padding: 8px 20px;
+  background-color: #264065;
+  font-size: 16px;
+  font-weight: 200;
+  border-radius: 20px;
+}
+
+.conteiner {
+  width: 1200px;
+  height: 620px;
+  padding-top: 30px;
+  position: absolute;
+  background-image: url("/img/bacground-spa.jpg");
+  background-repeat: no-repeat;
+  background-position: top right -82px;
+  background-size: 52%;
+  z-index: 3;
+  background-color: #FAF8F5;
+}
+
+.conteiner-img-woman figure {
+  position: absolute;
+  z-index: 2;
+  top: 55px;
+  right: -214px;
+}
+.conteiner-img-woman figure img {
+  width: 82%;
+}
+
+.hero {
+  width: 50%;
+  margin-bottom: 60px;
+  padding-bottom: 40px;
+  position: relative;
+}
+
+.hero__content .titulo {
+  font-size: 46px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 55px;
+  color: #264065;
+  margin-bottom: 30px;
+}
+.hero__content .sub-title {
+  color: #909090;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 25px;
+  margin-bottom: 40px;
+}
+.hero__content a.button {
+  color: #fff;
+  text-decoration: none;
+  padding: 8px 25px;
+  background-color: #264065;
+  font-size: 12px;
+  font-weight: 200;
+  border-radius: 20px;
+}
+.hero__content .conteiner-buttons {
+  display: flex;
+  margin-left: 0;
+  align-items: center;
+}
+.hero__content a {
+  color: #264065;
+  font-size: 12px;
+  text-decoration: none;
+  margin-left: 0;
+}
+
+.info-products {
+  position: relative;
+}
+
+.conteiner-products {
+  display: flex;
+  position: relative;
+  width: 37%;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.93);
+  z-index: -1;
+  border-radius: 16px;
+  top: -20px;
+}
+.conteiner-products article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+  width: 150px;
+}
+.conteiner-products article img {
+  width: 40px;
+  margin-bottom: 10px;
+}
+.conteiner-products article h3 {
+  color: #264065;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.conteiner-products article p {
+  color: #909090;
+  font-size: 12px;
+  font-weight: 300;
+  width: 80%;
+  text-align: center;
+}
+
+.name {
+  color: #264065;
+  font-weight: 600;
+}
+
+.coment-1 {
+  background-color: rgba(255, 255, 255, 0.5019607843);
+  width: 298px;
+  padding: 20px 10px;
+  border-radius: 16px;
+  position: absolute;
+  top: 335px;
+  right: 38px;
+  z-index: 4;
+  font-size: 13px;
+}
+.coment-1 .text {
+  margin-bottom: 6px;
+}
+
+.coment-2 {
+  background-color: rgba(255, 255, 255, 0.6);
+  width: 294px;
+  padding: 20px 10px;
+  border-radius: 16px;
+  position: absolute;
+  top: 557px;
+  right: 135px;
+  z-index: 4;
+  font-size: 13px;
+}
+.coment-2 .text {
+  margin-bottom: 6px;
+}
+
+html * {
+  font-family: "Poppins", sans-serif;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+body {
+  overflow-x: hidden;
+  position: relative;
+}
+
+/*# sourceMappingURL=style.css.map */
